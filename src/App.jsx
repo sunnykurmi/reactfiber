@@ -362,6 +362,7 @@ export default function App() {
 //           polar={[-0.1, Math.PI / 4]}
 //         >
 
+
 //           <Stage environment={null}>
 //             <Model scale={0.01}></Model>
 //           </Stage>
