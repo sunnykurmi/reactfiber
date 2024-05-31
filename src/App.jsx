@@ -361,6 +361,8 @@ export default function App() {
 //           zoom={0.5}
 //           polar={[-0.1, Math.PI / 4]}
 //         >
+
+
 //           <Stage environment={null}>
 //             <Model scale={0.01}></Model>
 //           </Stage>
